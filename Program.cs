@@ -90,7 +90,8 @@ namespace New_Test
         static void Main(string[] args)
         {
 
-            Console.ReadLine();
+            Console.ReadLine();// Some text
+            
         }
     }
 }
