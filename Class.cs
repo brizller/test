@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace New_Test
 {
-    internal class Class
+    static public class Class
     {
+        static public void sayHi()
+        {
+            Console.WriteLine("hello");
+        }
     }
 }
