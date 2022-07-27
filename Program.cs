@@ -91,8 +91,9 @@ namespace New_Test
         {
             
            Console.WriteLine(GetUniqueNumber(new int[] { 4, 10, 5, 4, 2, 10 }));
-            Console.WriteLine("say hi");
-            Console.WriteLine(GetUniqueArray(new int[] { 2, 3, 1, 5 }, new int[] { 4, 1, 5, 8 }));//вывод на экран
+            Console.ReadLine();
+            Console.Write("hi");
+            Class.sayHi();
             Console.WriteLine("Hello World");// тестирование новой функции
             Console.ReadLine();
         }
