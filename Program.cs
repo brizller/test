@@ -11,7 +11,7 @@ namespace New_Test
             for (int i = 0; i < array.Length; i++)
             {
                 for (int l = i + 1; l < array.Length; l++)
-  var                {
+              {
                     uniqueNum = array[i];
                     if (uniqueNum == array[l])
                     {
@@ -91,8 +91,7 @@ namespace New_Test
         {
             
            Console.WriteLine(GetUniqueNumber(new int[] { 4, 10, 5, 4, 2, 10 }));
-            Console.WriteLine("Hello world");// sd
-
+            Console.WriteLine("Hello world");
             Console.WriteLine("hello");
             Console.WriteLine(GetUniqueArray(new int[] { 2, 3, 1, 5 }, new int[] { 4, 1, 5, 8 }));//вывод на экран
             Console.WriteLine("Hello World");// тестирование новой функции

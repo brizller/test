@@ -8,7 +8,7 @@ namespace New_Test
 {
      public static class Class
     {
-        static public void getClass()
+        static public void sayZdraste()
         {
 
             Console.WriteLine("vsem zdraste");
