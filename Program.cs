@@ -89,12 +89,7 @@ namespace New_Test
 
         static void Main(string[] args)
         {
-            
-           Console.WriteLine(GetUniqueNumber(new int[] { 4, 10, 5, 4, 2, 10 }));
-            Console.ReadLine();
-            Console.Write("hi");
-            Class.sayHi();
-            Console.WriteLine("Hello World");// тестирование новой функции
+
             Console.ReadLine();
         }
     }
