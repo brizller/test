@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace New_Test
 {
-     public static class Class
+    internal class Class
     {
-        static public void sayZdraste()
-        {
-
-            Console.WriteLine("vsem zdraste");
-        }
     }
 }
