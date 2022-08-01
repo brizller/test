@@ -93,6 +93,7 @@ namespace New_Test
            Console.WriteLine(GetUniqueNumber(new int[] { 4, 10, 5, 4, 2, 10 }));
             Class.sayHi();
             Console.Write("hello this world");
+            Class.sayHi();// some modifications
            
             Console.WriteLine("Hello World");// тестирование новой функции
             
