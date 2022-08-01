@@ -94,7 +94,7 @@ namespace New_Test
             Class.sayHi();
             Console.Write("hello this world");
             Class.sayHi();// some modifications
-            Console.WriteLine("Hello World");// тестирование новой функции
+            Console.WriteLine("Hello World");// комментарий 
             
 
             Console.ReadLine();// Some text
