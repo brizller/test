@@ -8,7 +8,7 @@ namespace New_Test
 {
     static public class Class
     {
-        static public void sayHi()
+        static public void sayHello()
         {
             Console.WriteLine("hello");
         }
