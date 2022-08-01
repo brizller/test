@@ -95,8 +95,8 @@ namespace New_Test
             Console.Write("hello this world");
             Class.sayHi();// some modifications
            
-            Console.WriteLine("Hello World");// тестирование новой функции
-            
+            Console.ReadLine();
+          
 
             Console.ReadLine();// Some text
             
